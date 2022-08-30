@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/Phone Book/task/build/
+/Phone Book/task/out/
+/Phone Book/task/out/production/classes/
+/Topics/Floating-point types/Area of a circle/out/
+/Topics/Floating-point types/Area of a circle/out/production/classes/
+/Topics/Floating-point types/Find X/out/
+/Topics/Floating-point types/Find X/out/production/classes/
+/Topics/Instant/Min and max Instant units/out/
+/Topics/Instant/Min and max Instant units/out/production/classes/
+/Topics/Math library/Heron's formula/out/
+/Topics/Math library/Heron's formula/out/production/classes/
+/Topics/Math library/Pow/out/
+/Topics/Math library/Pow/out/production/classes/
+/Topics/Math library/Quadratic equation/out/
+/Topics/Math library/Quadratic equation/out/production/classes/
+/Topics/Math library/The angle between vectors/out/
+/Topics/Math library/The angle between vectors/out/production/classes/
